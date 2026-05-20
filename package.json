@@ -1,0 +1,12 @@
+{
+  "name": "toilet-text-bot",
+  "version": "1.0.0",
+  "description": "Текстовый бот поиска туалетов",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
