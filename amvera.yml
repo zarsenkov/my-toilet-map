@@ -1,8 +1,0 @@
-meta:
-  environment: node
-  toolchain: npm
-build:
-  requirements:
-    - package.json
-run:
-  command: node server.js
